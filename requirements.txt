@@ -1,0 +1,6 @@
+torch
+seaborn
+matplotlib
+numpy
+setuptools~=80.9.0
+gymnasium~=1.2.1
