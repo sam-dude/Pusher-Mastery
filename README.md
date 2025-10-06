@@ -1,5 +1,5 @@
 # Pusher Mastery - Notebook-Based Structure
-In this experiment I learn to try different deep learning algorithm for  Deep dive into robotic manipulation using Reinforcement Learning.
+This is a deep dive into robotic manipulation using Reinforcement Learning. In this experiment I learn to try different deep learning algorithm for Pusher environment provided by Gymnasium
 
 ## Getting Started
 1. Activate environment: \`source pusher_env/bin/activate\`
