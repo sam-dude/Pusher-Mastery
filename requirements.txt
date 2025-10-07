@@ -1,3 +1,6 @@
+pandas
+tqdm
+ipython
 torch
 seaborn
 matplotlib
