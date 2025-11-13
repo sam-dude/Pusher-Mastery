@@ -1,0 +1,44 @@
+# Training Artifacts
+checkpoints/
+videos/
+logs/
+results/
+notebooks/checkpoints/
+notebooks/videos/
+notebooks/videos/visualization/
+checkpoints/sac/
+
+# Colab & Stats Files
+*.pkl
+*.csv
+*_stats.pkl
+*_report.txt
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# System
+.DS_Store
+__pycache__/
+*.log
+
+# Large Model Files
+*.pt
+*.pth
+*.h5
+weights/
+models/
+data/
+
